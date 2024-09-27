@@ -51,7 +51,7 @@
     <div align= "center">  
         <img src="https://github-readme-stats.vercel.app/api?username=mogld&bg_color=180,00000000,00000000&title_color=000000&text_color=000000" /> 
         <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogld&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000&exclude_repo=Database-project, WebProgramming" /> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogld&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000&exclude_repo=Database-project,WebProgramming" /> 
         </a>
     </div> 
 </div>
