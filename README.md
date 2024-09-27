@@ -1,6 +1,6 @@
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Jinsol’s </h2>  
-    <div style="font-weight: 400; font-size: 7px; text-align: center; color: #282d33;"> [2020]전국연합동아리 멋쟁이사자처럼 8기 </li>[2020]한이음ICT멘토링 개발 참여</li></li>[2021]DSAC M1<li>M7 <li>> BSAC</li>[2021]소모임 Spring</li></li>[2023.03<li>2023.06] 동아리 제5세대: Python</li>[2023]Studied at University of Liverpool</li>[2023]유해조수퇴치연구 : 강화학습, 딥러닝 모델링</li></li>[2024.03<li>2024.11] 카카오테크캠퍼스 2기 BE </li>[2024.09<li>] 부전공: 의료인공지능전공 </li>[2024.10<li>2025.01] UGRP : PCOS AI 예측 연구</li> </div> 
+    <div style="font-weight: 300; font-size: 5px; text-align: center; color: #282d33;"> <li> [2020] 전국연합동아리 멋쟁이사자처럼 8기 </li><li> [2020] 한이음ICT멘토링 개발 참여</li></li><li> [2021] DSAC M1~M7  BSAC</li><li> [2021] 소모임 Spring</li></li><li> [2023.03~2023.06] 동아리 제5세대: Python</li><li> [2023] Studied at University of Liverpool</li><li> [2023] 유해조수퇴치연구 : 강화학습, 딥러닝 모델링</li></li><li> [2024.03~2024.11] 카카오테크캠퍼스 2기 BE </li><li> [2024.09~] 부전공: 의료인공지능전공 </li><li> [2024.10~2025.01] UGRP : PCOS AI 예측 연구</li> </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
