@@ -1,6 +1,6 @@
-<div align= "center"> 
+<div align= "left"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Jinsol’s </h2>  
-    <div style="font-weight: 300; font-size: 5px; text-align: center; color: #282d33;"> 
+    <div style="font-weight: 300; font-size: 5px; text-align: left; color: #282d33;"> 
         <li> [2020] 전국연합동아리 멋쟁이사자처럼 8기 </li>
         <li> [2020] 한이음ICT멘토링 개발 참여</li>
         <li> [2021] DSAC M1~M7  BSAC</li>
@@ -14,9 +14,9 @@
     </div> 
 </div>
 
-<div align= "center">
+<div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> 
+    <div style="margin: 0 auto; text-align: left;" align= "left"> 
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -34,9 +34,9 @@
     </div>
 </div>
 
-<div align= "center">
+<div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> 
+    <div align= "left"> 
         <a href="https://forjstudy.tistory.com"> 
             <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://forjstudy.tistory.com"> 
         </a>
@@ -46,12 +46,5 @@
     </div> <br> 
 </div>
 
-<div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <div align= "center">  
-        <img src="https://github-readme-stats.vercel.app/api?username=mogld&bg_color=180,00000000,00000000&title_color=000000&text_color=000000&count_private=true" /> 
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogld&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000&count_private=true&exclude_repo=Database-project,WebProgramming,Android-Studio-Assignments" /> 
-        </a>
-    </div> 
-</div>
+
+
