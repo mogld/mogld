@@ -1,7 +1,7 @@
 <div align= "left"> 
     <h2 style="border-bottom: 4px solid #d8dee4; color: #282d33;"> Jinsol’s </h2>  
     <div style="font-weight: 300; font-size: 2px; text-align: left; color: #282d33;"> 
-        <li> [2020] 전국연합동아리 멋쟁이사자처럼 8기 </li>
+        <li> [2020] 멋쟁이사자처럼 8기 </li>
         <li> [2020] 한이음ICT멘토링 개발 참여</li>
         <li> [2021] DSAC M1~M7  BSAC</li>
         <li> [2021] 소모임 Spring</li>
