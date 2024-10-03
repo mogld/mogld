@@ -2,7 +2,7 @@
     <h2 style="border-bottom: 4px solid #d8dee4; color: #282d33;"> Jinsol’s </h2>  
     <div style="font-weight: 300; font-size: 2px; text-align: left; color: #282d33;"> 
         <li> [2020] 멋쟁이사자처럼 8기 </li>
-        <li> [2020] 한이음ICT멘토링 개발 참여</li>
+        <li> [2020] 한이음ICT멘토링 : 보안 강화 프로그램</li> 
         <li> [2021] DSAC M1~M7  BSAC</li>
         <li> [2021] 소모임 Spring</li>
         <li> [2023.03~2023.06] 동아리 제5세대: Python</li>
