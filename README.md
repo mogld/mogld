@@ -105,6 +105,7 @@
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI"/>
 </div>
 
 <br>
