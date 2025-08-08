@@ -64,6 +64,8 @@
       <ul style="margin:4px 0; padding-left:16px; text-align:left; display:inline-block;">
         <li>Remote Internship 6기: DX</li>
         <li><a href="https://github.com/Al-Chaser/BE" target="_blank">졸업 과제: 실내 소리 인식 및 상황 감지 시스템</a></li>
+        <li><a href="https://github.com/summer-Gamba/fingerMouse" target="_blank">기업체험형 단기인턴십: 감바랩스</a></li>
+        <li>단기인턴십: 부산대학교병원 의학통계실</li>    
       </ul>
     </td>
     <td align="left">
