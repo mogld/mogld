@@ -105,5 +105,10 @@
     <img src="https://img.shields.io/badge/Spring%20Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>
 </div>
 
+<br>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogld&layout=compact&theme=radical&hide=html,css,PHP,Hack" height="150">
+</p>
 
 
