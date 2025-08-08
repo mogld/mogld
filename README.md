@@ -41,7 +41,7 @@
     <td align="left">
       <ul style="margin:4px 0; padding-left:16px; text-align:left; display:inline-block;">
         <li>동아리 제5세대: Python</li>
-        <li>Studied at University of Liverpool</li>
+        <li><a href="https://github.com/mogld/SummerSchool_in_UOL" target="_blank">Studied at University of Liverpool</a></li>
       </ul>
     </td>
   </tr>
@@ -55,15 +55,15 @@
   <tr>
     <td align="left">
       <ul style="margin:4px 0; padding-left:16px; text-align:left; display:inline-block;">
-        <li>카카오테크캠퍼스 2기 BE</li>
+        <li><a href="https://github.com/kakao-tech-campus-2nd-step3/Team13_BE" target="_blank">카카오테크캠퍼스 2기 BE</a></li>
         <li>부전공: 의료인공지능전공</li>
-        <li>UGRP: PCOS AI 예측 연구</li>
+        <li><a href="https://github.com/mogld/ugrp_2024" target="_blank">UGRP: PCOS AI 예측 연구</a></li>
       </ul>
     </td>
     <td align="left">
       <ul style="margin:4px 0; padding-left:16px; text-align:left; display:inline-block;">
         <li>Remote Internship 6기: DX</li>
-        <li>졸업 과제: 실내 소리 인식 및 상황 감지 시스템</li>
+        <li><a href="https://github.com/Al-Chaser/BE" target="_blank">졸업 과제: 실내 소리 인식 및 상황 감지 시스템</a></li>
       </ul>
     </td>
     <td align="left">
@@ -80,7 +80,7 @@
 <br>
 
 ## 🏆 Awards
-- **2024**: 카카오테크캠퍼스 아이디어톤 **우수상**
+- **2024**: <a href="https://github.com/kakao-tech-campus-2nd-step3/Team13_BE" target="_blank">카카오테크캠퍼스 아이디어톤</a> **우수상**
 
 
 <br>
