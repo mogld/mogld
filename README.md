@@ -63,6 +63,7 @@
     <td align="left">
       <ul style="margin:4px 0; padding-left:16px; text-align:left; display:inline-block;">
         <li>Remote Internship 6기: DX</li>
+        <li>2025년 통계데이터 활용대회</li>   
         <li><a href="https://github.com/summer-Gamba/fingerMouse" target="_blank">기업체험형 단기인턴십: 감바랩스</a></li>
         <li>단기인턴십: 부산대학교병원 의학통계실</li>    
         <li><a href="https://github.com/Project-Hearo/HearoBE" target="_blank">2025 IoT-X 캡스톤디자인 경진대회</a></li>
