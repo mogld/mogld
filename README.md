@@ -14,7 +14,7 @@
   </a>
 </p>
 
-## 📜 About Me
+## About Me
 <div align="center">
 
 <table style="border-collapse: collapse; width: 100%; table-layout: fixed;" >
@@ -79,14 +79,14 @@
 
 <br>
 
-## 🏆 Awards
+## Awards
 - **2024**: <a href="https://github.com/kakao-tech-campus-2nd-step3/Team13_BE" target="_blank">카카오테크캠퍼스 아이디어톤</a> **우수상**
 
 
 <br>
 
 
-## 👨‍💻 Tech Stack
+## Tech Stack
 
 **AI & ML**
 <div>
@@ -101,7 +101,7 @@
 <div>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>
 </div>
 
 
