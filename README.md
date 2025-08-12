@@ -112,8 +112,6 @@
 
 <br>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogld&layout=compact&theme=radical&hide=html,css,PHP,Hack&exclude_repo=Android-Studio-Assignments&include_forks=true" height="150">
-</p>
+
 
 
