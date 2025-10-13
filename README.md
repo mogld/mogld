@@ -86,6 +86,7 @@
 ## Awards
 - **2024**: <a href="https://github.com/kakao-tech-campus-2nd-step3/Team13_BE" target="_blank">카카오테크캠퍼스 아이디어톤</a> **우수상**
 - **2025**: <a href="https://github.com/Project-Hearo/HearoBE" target="_blank">2025 IoT-X 캡스톤디자인 경진대회</a> **장려상**
+- **2025**: <a href="https://github.com/pnucse-capstone2025/Capstone-2025-team-29" target="_blank">졸업과제</a> **동상**
 
 
 <br>
